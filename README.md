@@ -1,5 +1,5 @@
 # test-repo
 
-This is my first repo. I love Github :)
+This is my first repo. I love Github
 Second test!
 Third commit 
